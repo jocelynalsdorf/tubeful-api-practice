@@ -49,7 +49,7 @@ body{
 
 #search-results {
 	width: 651px;
-	height: 276px;
+	height: 200px;
 	background-color: #f2f2f2;
 	margin-top: 100px;
 	marrgin-bottom: 140px;
@@ -57,7 +57,7 @@ body{
 	margin-right: auto;
 	padding-bottom: 10px;
 	padding-top: 15px;
-	line-height: 140px;
+	line-height: 40px;
 	overflow: hidden;
 	text-align: start;
 }
@@ -72,6 +72,8 @@ body{
 	vertical-align: top;
 }
 
-
+img {
+	padding: 0 22px 0 20px;
+}
 
 
